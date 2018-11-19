@@ -1,8 +1,8 @@
-package trzewik.com.model;
+package trzewik.com.weatherprovider.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import trzewik.com.model.forecast.City;
-import trzewik.com.model.forecast.ForecastItem;
+import trzewik.com.weatherprovider.model.forecast.City;
+import trzewik.com.weatherprovider.model.forecast.ForecastItem;
 
 import java.math.BigDecimal;
 import java.util.List;

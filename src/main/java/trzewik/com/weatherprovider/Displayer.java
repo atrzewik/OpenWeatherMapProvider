@@ -1,13 +1,17 @@
-package trzewik.com.weather;
+package trzewik.com.weatherprovider;
 
-import trzewik.com.inputProvider.InputMatcher;
-import trzewik.com.inputProvider.MessagePrinter;
-import trzewik.com.inputProvider.MessageProvider;
-import trzewik.com.model.ResponseWeather;
-import trzewik.com.model.forecast.ForecastItem;
-import trzewik.com.weather.enums.Weather;
+import trzewik.com.weatherprovider.inputProvider.InputMatcher;
+import trzewik.com.weatherprovider.inputProvider.MessagePrinter;
+import trzewik.com.weatherprovider.inputProvider.MessageProvider;
+import trzewik.com.weatherprovider.model.ResponseWeather;
+import trzewik.com.weatherprovider.model.forecast.ForecastItem;
+import trzewik.com.weatherprovider.weather.Converter;
+import trzewik.com.weatherprovider.weather.WeatherProvider;
+import trzewik.com.weatherprovider.weather.enums.Weather;
+
 
 import java.util.List;
+
 
 public class Displayer {
 

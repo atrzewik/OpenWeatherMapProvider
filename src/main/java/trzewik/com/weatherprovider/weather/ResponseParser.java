@@ -1,9 +1,9 @@
-package trzewik.com.weather;
+package trzewik.com.weatherprovider.weather;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import trzewik.com.model.ResponseWeather;
-import trzewik.com.model.ResponseWeatherForecast;
+import trzewik.com.weatherprovider.model.ResponseWeather;
+import trzewik.com.weatherprovider.model.ResponseWeatherForecast;
 
 import java.io.IOException;
 

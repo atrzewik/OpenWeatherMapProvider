@@ -1,4 +1,4 @@
-package trzewik.com.weather;
+package trzewik.com.weatherprovider.weather;
 
 import java.math.BigDecimal;
 

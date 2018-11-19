@@ -1,6 +1,6 @@
-package trzewik.com.model;
+package trzewik.com.weatherprovider.model;
 
-import trzewik.com.model.weather.*;
+import trzewik.com.weatherprovider.model.weather.*;
 
 import java.util.List;
 

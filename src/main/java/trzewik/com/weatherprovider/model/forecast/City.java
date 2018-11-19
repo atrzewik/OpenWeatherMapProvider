@@ -1,6 +1,4 @@
-package trzewik.com.model.forecast;
-
-import trzewik.com.model.weather.Coord;
+package trzewik.com.weatherprovider.model.forecast;
 
 public class City {
 //    private Integer id;

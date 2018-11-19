@@ -1,7 +1,7 @@
-package trzewik.com.model.forecast;
+package trzewik.com.weatherprovider.model.forecast;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import trzewik.com.model.weather.*;
+import trzewik.com.weatherprovider.model.weather.*;
 
 import java.util.List;
 

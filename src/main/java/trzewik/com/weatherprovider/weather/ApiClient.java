@@ -1,4 +1,4 @@
-package trzewik.com.weather;
+package trzewik.com.weatherprovider.weather;
 
 import com.mashape.unirest.http.Unirest;
 import com.mashape.unirest.http.exceptions.UnirestException;

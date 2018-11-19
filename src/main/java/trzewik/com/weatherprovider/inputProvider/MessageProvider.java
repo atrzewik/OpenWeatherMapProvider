@@ -1,4 +1,4 @@
-package trzewik.com.inputProvider;
+package trzewik.com.weatherprovider.inputProvider;
 
 public class MessageProvider {
 
