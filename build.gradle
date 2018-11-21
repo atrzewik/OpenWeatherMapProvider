@@ -20,7 +20,3 @@ dependencies {
 
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
-//331ed05b9d06a7896cc8bb03ad3c7d99
-//http://api.openweathermap.org/data/2.5/forecast?id=524901&APPID={331ed05b9d06a7896cc8bb03ad3c7d99}
-//"https://api.openweathermap.org/data/2.5/weather?q=Budapest&appid=331ed05b9d06a7896cc8bb03ad3c7d99"
-//compile 'net.aksingh:owm-japis:2.5.2.3'
